@@ -1,3 +1,6 @@
+# Activation Funciton
+
+
 
 ![image](https://user-images.githubusercontent.com/54826291/202520313-c1a124e2-459d-419f-85e2-d707dbcd0eb7.png)
 ![image](https://user-images.githubusercontent.com/54826291/202520354-32c82a6d-3c2e-488e-82ff-e6873549ab41.png)
